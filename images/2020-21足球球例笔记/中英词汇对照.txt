@@ -1,0 +1,13 @@
+powers 权限
+authority 权力
+match 比赛
+competition 赛事
+confederation 洲际联合会
+national football association 国家足球协会
+signals 手势
+liability 免责条款
+player 球员
+substitutes 替补球员
+substituted player 已被换出的球员
+sent off player 被驱逐离场的球员
+team official 球队职员
