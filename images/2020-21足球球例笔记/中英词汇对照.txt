@@ -11,3 +11,8 @@ substitutes 替补球员
 substituted player 已被换出的球员
 sent off player 被驱逐离场的球员
 team official 球队职员
+the Laws of the Game 竞赛规则/球例
+match officials 比赛官员/赛事执法人员
+referee review area (RRA) 裁判回看区/裁判复检区
+disciplinary sanction 纪律处分
+offence 违规/犯规
