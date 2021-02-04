@@ -32,3 +32,5 @@ unsporting behaviour 非体育行为/欠缺体育精神行为
 stop the match 暂停/停止比赛
 suspend the match 中断/暂停比赛
 abandon the match 中止/腰斩比赛
+fourth official 第四官员/后备裁判员
+
