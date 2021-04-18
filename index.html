@@ -63,6 +63,10 @@ searchInputEl.oninput = function (evt) {
 
     if (searchResults.length > 0) {
         renderSearchResults(searchResults)
+    } else {
+        searchResultEl.style.height = 0
+        searchResultEl.innerHTML = null
+        return
     }
 }
 
